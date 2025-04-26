@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shravani!
 =================================================================================================================================
 
+
 A passionate Web Development Enthusiast 🚀
 ------------------------------------------
 
-👩‍💻 About Me Hi! I'm a web development enthusiast with a background in Artificial Intelligence and Data Science and I'm focused on building strong skills in HTML, CSS, Java, Python and JavaScript. I love exploring new technologies. Always excited to learn, grow, and connect!
+👩‍💻Hi! I'm a web development enthusiast with a background in Artificial Intelligence and Data Science and I'm focused on building strong skills in HTML, CSS, Java, Python and JavaScript. I love exploring new technologies. Always excited to learn, grow, and connect!
+
+---
 
 ## 👩‍💻 About Me
 Hi! I'm a web development enthusiast with a background in **Artificial Intelligence and Data Science**.  
@@ -57,11 +60,6 @@ I love exploring new technologies and am always excited to learn, grow, and conn
 <a href="http://www.github.com/shravaniraut175"><img src="https://github-readme-stats.vercel.app/api?username=shravaniraut175&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="shravaniraut175's GitHub stats" /></a>
 
 <a href="http://www.github.com/shravaniraut175"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravaniraut175&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<a href="https://github.com/shravaniraut175">
- <img src="https://ghchart.rshah.org/0891b2/shravaniraut175" alt="shravaniraut175's Github chart" />
-</a>
 
 
 <a href="https://github.com/shravaniraut175" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravaniraut175&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
