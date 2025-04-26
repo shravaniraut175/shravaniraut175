@@ -1,6 +1,10 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Shravani! 👩‍💻
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shravani!
+=================================================================================================================================
 
-# A Passionate Web Development Enthusiast 🚀
+A passionate Web Development Enthusiast 🚀
+------------------------------------------
+
+👩‍💻 About Me Hi! I'm a web development enthusiast with a background in Artificial Intelligence and Data Science and I'm focused on building strong skills in HTML, CSS, Java, Python and JavaScript. I love exploring new technologies. Always excited to learn, grow, and connect!
 
 ## 👩‍💻 About Me
 Hi! I'm a web development enthusiast with a background in **Artificial Intelligence and Data Science**.  
@@ -55,9 +59,8 @@ I love exploring new technologies and am always excited to learn, grow, and conn
 <a href="http://www.github.com/shravaniraut175"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravaniraut175&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
 <a href="https://github.com/shravaniraut175">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravaniraut175&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+ <img src="https://ghchart.rshah.org/0891b2/shravaniraut175" alt="shravaniraut175's Github chart" />
 </a>
 
 
