@@ -2,7 +2,7 @@
 <!--   SHRVANI RAUT | GITHUB       -->
 <!-- ============================= -->
 
-<h1 align="center">Hi, I’m Shravani 👋</h1>
+<h1 align="center">Hi, I’m Shravani Raut</h1>
 
 <p align="center">
   Student • Developer • Learner 
@@ -10,11 +10,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=Learning+by+Building;Consistency+over+Motivation" />
-</p>
-
-<p align="center">
-  I enjoy turning ideas into clean interfaces,<br/>
-  learning by building, and growing consistently.
 </p>
 
 <br/>
